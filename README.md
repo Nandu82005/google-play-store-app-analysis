@@ -47,7 +47,3 @@ The Jupyter Notebook contains the complete analysis and outputs.
 1. Download or clone this repository.
 2. Open `APP-TREND-ANALYSIS.ipynb` using Jupyter Notebook or JupyterLab.
 3. Review the analysis and visualizations included in the notebook.
-
-## Author
-
-P Nandini
